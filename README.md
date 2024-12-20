@@ -15,6 +15,7 @@
 * Eat lunch in a publicly available space as often as possible
 * Schedule meetings with your subordinates before taking extended time off
 * Show up to meetings exactly on time and ready (esp. audio/video for meetings), or preferably even early
+* Clearly delineate who on your team is responsible for what
 
 
 ## Don'ts
